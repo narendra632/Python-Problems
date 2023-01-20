@@ -1,0 +1,32 @@
+Drank Water at  2022-02-20 12:11:24.733958
+Drank Water at  2022-02-20 12:11:32.647411
+Drank Water at  2022-02-20 12:22:13.178678
+Body Exercise done at  2022-02-20 12:22:36.865033
+Drank Water at  2022-02-20 12:22:42.473354
+Eye exercise done at  2022-02-20 12:22:46.143563
+Body Exercise done at  2022-02-20 12:22:51.578874
+Drank Water at  2022-02-20 12:53:59.830814
+Body Exercise done at  2022-02-20 12:54:18.638889
+Drank Water at  2022-02-20 12:54:24.011197
+Eye exercise done at  2022-02-20 12:54:26.781355
+Body Exercise done at  2022-02-20 12:54:30.903591
+Drank Water at  2022-02-20 12:54:33.744753
+Drank Water at  2022-02-20 12:54:48.671607
+Eye exercise done at  2022-02-20 12:54:51.806786
+Drank Water at  2022-02-20 13:01:52.056370
+Body Exercise done at  2022-02-20 13:01:58.011710
+Drank Water at  2022-02-20 13:03:57.203700
+Body Exercise done at  2022-02-20 13:04:02.914027
+Drank Water at  2022-02-20 13:04:06.100209
+Eye exercise done at  2022-02-20 13:04:09.476402
+Drank Water at  2022-02-20 13:06:14.579518
+Eye exercise done at  2022-02-20 13:06:19.557803
+Drank Water at  2022-02-25 21:33:18.363430
+Drank Water at  2022-02-27 10:50:07.004081
+Eye exercise done at  2022-02-27 10:52:59.112925
+Body Exercise done at  2022-02-27 11:01:29.218101
+Drank Water at  2022-02-27 11:20:40.334941
+Eye exercise done at  2022-02-27 11:28:09.867653
+Body Exercise done at  2022-02-27 11:41:37.607853
+Drank Water at  2022-02-27 11:51:07.984477
+Eye exercise done at  2022-02-27 12:03:22.753503
